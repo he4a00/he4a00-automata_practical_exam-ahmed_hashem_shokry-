@@ -3,7 +3,7 @@
 This repository contains simple JavaScript implementations for solving basic automata theory problems using DFA, PDA, and Turing Machine logic.
 
 ---
-
+## Section Number: 1
 
 ---
 
